@@ -73,7 +73,7 @@ std::ostream& operator<<(std::ostream& os, Abonat& a){
 }
 
 
-float Abonat::cheltuieliAbonament(){
+float Abonat::cheltuieliAbonat(){
     Abonament* ab=this->abonamentAbonat;
     AbonamentPremium* c;
     c = dynamic_cast<AbonamentPremium*>(this->abonamentAbonat);
