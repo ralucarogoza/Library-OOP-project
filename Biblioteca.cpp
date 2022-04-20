@@ -73,6 +73,6 @@ int Biblioteca::numarAbonati(){
 float Biblioteca::sumaIncasata(){
     float s=0;
     for(Abonat a: this->abonati)
-        s=s+a.cheltuieliAbonament();
+        s=s+a.cheltuieliAbonat();
     return s;
 }
