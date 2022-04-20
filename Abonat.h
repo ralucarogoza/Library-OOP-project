@@ -13,7 +13,7 @@ public:
     Abonat(const Abonat&);
     Abonat& operator=(Abonat);
     int getNumarAbonati();
-    float cheltuieliAbonament();
+    float cheltuieliAbonat();
     friend std::istream& operator>>(std::istream&, Abonat&);
     friend std::ostream& operator<<(std::ostream&, Abonat&);
 private:
