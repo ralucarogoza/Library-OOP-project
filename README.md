@@ -3,7 +3,7 @@ Acest proiect simulează gestiunea unei biblioteci. Conține următoarele clase:
 
 ### Clasa Meniu 
 
-  Este cea care conține meniul interactiv. Conține următoarele opțiuni:
+  Această clasă conține meniul interactiv. Are următoarele opțiuni:
 1. Afișați persoanele abonate la bibliotecă
 2. Introduceți un nou abonat
 3. Afișați numărul de abonați
