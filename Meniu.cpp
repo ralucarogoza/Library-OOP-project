@@ -4,10 +4,10 @@
 Meniu::Meniu(){
     std::cout<<"Introduceti denumirea bibliotecii: ";
     std::cin>>b;
-    std::cout<<"1. Vedeti persoanele abonate la biblioteca\n";
+    std::cout<<"1. Afisati persoanele abonate la biblioteca\n";
     std::cout<<"2. Introduceti un nou abonat\n";
-    std::cout<<"3. Vedeti numarul de abonati\n";
-    std::cout<<"4. Vedeti suma totala incasata de catre biblioteca\n";
+    std::cout<<"3. Afisati numarul de abonati\n";
+    std::cout<<"4. Afisati suma totala incasata de catre biblioteca\n";
     do{
         std::cin>>optiune;
         if(optiune==1)
