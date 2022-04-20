@@ -1,5 +1,5 @@
 # Proiect POO
-Acest proiect simulează gestiunea unei biblioteci. Conține următoarele clase: Meniu, Bibliotecă, Persoana, Abonat, Abonament, AbonamentPremium. 
+Acest proiect simulează gestiunea unei biblioteci. Conține următoarele clase: Meniu, Biblioteca, Persoana, Abonat, Abonament, AbonamentPremium. 
 
 ### Clasa Meniu 
 
