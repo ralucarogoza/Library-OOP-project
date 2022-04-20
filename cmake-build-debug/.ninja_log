@@ -1,0 +1,17 @@
+# ninja log v5
+3	572	6721796437109732	CMakeFiles/Proiect.dir/main.cpp.obj	755ef1148de4974e
+1224	1466	6721803773189858	Proiect.exe	bc3cfbc223e8121b
+42	1140	6721803769979282	CMakeFiles/Proiect.dir/Meniu.cpp.obj	e6b1d9e244fcabf0
+28	886	6721803767310617	CMakeFiles/Proiect.dir/AbonamentPremium.cpp.obj	2e44052649a5b1d6
+36	909	6721025670567146	CMakeFiles/Proiect.dir/Persoana.cpp.obj	fc9a5355a63854b3
+32	1224	6721803770840627	CMakeFiles/Proiect.dir/Biblioteca.cpp.obj	940ac3379d3c9535
+25	881	6721803767270671	CMakeFiles/Proiect.dir/Abonament.cpp.obj	de2bf22a761a8624
+5	894	6721803767510410	CMakeFiles/Proiect.dir/Abonat.cpp.obj	3e3f91bfa566a25d
+4	854	6721822200569411	CMakeFiles/Proiect.dir/main.cpp.obj	755ef1148de4974e
+29	929	6721822201288482	CMakeFiles/Proiect.dir/Meniu.cpp.obj	e6b1d9e244fcabf0
+930	1225	6721822204444237	Proiect.exe	bc3cfbc223e8121b
+5	783	6721823063786724	CMakeFiles/Proiect.dir/Biblioteca.cpp.obj	940ac3379d3c9535
+784	1049	6721823066383535	Proiect.exe	bc3cfbc223e8121b
+28	860	6721826888810458	CMakeFiles/Proiect.dir/Meniu.cpp.obj	e6b1d9e244fcabf0
+4	890	6721826889129602	CMakeFiles/Proiect.dir/Biblioteca.cpp.obj	940ac3379d3c9535
+891	1129	6721826891482500	Proiect.exe	bc3cfbc223e8121b
