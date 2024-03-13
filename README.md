@@ -1,7 +1,7 @@
 # OOP Project
 [English](#description)
 
-[Română](descriere)
+[Română](#descriere)
 
 
 ### Description
